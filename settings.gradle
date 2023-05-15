@@ -13,4 +13,8 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "weather_project"
-include ':app'
+include ':presentation'
+include ':domain'
+include ':di'
+include ':data'
+include ':core'

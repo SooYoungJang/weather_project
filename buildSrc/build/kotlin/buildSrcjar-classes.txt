@@ -1,0 +1,1 @@
+/Users/eddy/Documents/AndroidStudio_Project/personal-git/weather_project/buildSrc/build/classes/kotlin/main/Configurations.class
